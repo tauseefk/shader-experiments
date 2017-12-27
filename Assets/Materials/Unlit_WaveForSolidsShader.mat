@@ -23,18 +23,18 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Amplitude: 0.18681985
+    - _Amplitude: 0.04984474
     - _DynamicEmissionLM: 0
     - _EmissionLM: 0
     - _Frequency: 0.005
     - _ImpactX: 0
     - _ImpactZ: 0
-    - _OffsetX: 53.1
-    - _OffsetZ: 52.8
+    - _OffsetX: 36.9
+    - _OffsetZ: 11.598487
     - _Scale: 10
     - _Speed: -10
     - _Threshold: 1
-    - _WaveTravelDistance: 162.63603
+    - _WaveTravelDistance: 190.03105
     - _WaveTravelRange: 80
     m_Colors:
     - _Color: {r: 0, g: 0, b: 0, a: 1}
