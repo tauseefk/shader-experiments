@@ -80,6 +80,9 @@ Shader "Unlit/WaveForSolidsShader"
 			{
 				fixed4 col = 0;
 				col.rgb = i.color.rgb;
+				if(i.color.r * 0.3 + i.color.g * 0.59 + i.color.b * 0.11 == 0.0) {
+//					clip(-1);
+				}
 				return col;
 			}
 			ENDCG
